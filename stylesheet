@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(21, 18, 18);
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #00d9ff;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: flex;
+    
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    margin:30px ;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: rgb(0, 68, 255);
+    text-decoration: none;
+    padding:8 px;
+    
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 30px;
+    display: flex;
+    
+}
+
+article {
+    background-color: rgb(79, 73, 73);
+    padding:50PX ;
+    width: 400px;
+    margin: 10;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: rgb(4, 0, 255);
+    color: rgb(255, 72, 0);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: flex;
+}
+
+footer {
+    background-color: rgb(26, 24, 24);
+    padding: ;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+    color: rgb(8, 0, 255);
+}
+
+
+
+
+
+main{
+background-color:rgb(48, 44, 44);
+}
